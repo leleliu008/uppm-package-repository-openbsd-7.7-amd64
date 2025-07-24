@@ -1,0 +1,5 @@
+summary: Render markdown on the CLI
+webpage: https://github.com/charmbracelet/glow
+version: 2.1.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/glow-2.1.1-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 6155f739392de1c7a27a263f5e013b488e9a384f9be0afa84c6ce1c4cd4149e8

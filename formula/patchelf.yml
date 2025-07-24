@@ -1,0 +1,5 @@
+summary: A small utility to modify ELF files
+webpage: https://github.com/NixOS/patchelf
+version: 0.18.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/patchelf-0.18.0-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 41864d0fff293119e5fc534eac5626dc640f3400bbcb1d5dc0a531f9c1e4ab85

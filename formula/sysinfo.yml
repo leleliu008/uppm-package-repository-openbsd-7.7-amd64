@@ -1,0 +1,5 @@
+summary: A command-line utility to print your currently running system information
+webpage: https://github.com/leleliu008/sysinfo
+version: 2025.07.24 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/sysinfo-2025.07.24-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: a19e2c2c5eee8dfaf6b4d3182dc0019c5052a33623a39a0c335c1e17d7040d5b

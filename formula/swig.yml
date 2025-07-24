@@ -1,0 +1,5 @@
+summary: A command-line tool for generating scripting interfaces to C/C++ code
+webpage: https://www.swig.org/
+version: 4.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/swig-4.3.0-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 47e68ea18ae98c8e98805166355966ea1bdad40964a1635a7add7dba90ed203d

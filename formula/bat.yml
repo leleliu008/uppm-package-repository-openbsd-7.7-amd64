@@ -1,0 +1,5 @@
+summary: Clone of cat(1) with syntax highlighting and Git integration
+webpage: https://github.com/sharkdp/bat
+version: 0.25.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/bat-0.25.0-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 8c48d498cad43d737e641d3b9323cd97a84cc6e25d325e29a4a5590063ff1d0d

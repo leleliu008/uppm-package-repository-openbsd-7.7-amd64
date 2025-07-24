@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.20.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/ed-1.20.1-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 4b5316cd6a59c6ca691713faa5f2e1561ad474f45c760d6278f19215b495b45c

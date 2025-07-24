@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.8.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/bsdtar-3.8.1-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 78b71deaa3c827085f4d9a368eea9ea62d6d9e136eafca2dd8d22886e2ddb0fa

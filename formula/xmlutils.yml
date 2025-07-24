@@ -1,0 +1,5 @@
+summary: A collections of command-line utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.13.5 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64/releases/download/2025.07.24/xmlutils-2.13.5-openbsd-7.7-amd64.release.tar.xz 
+bin-sha: 965a36bde0b82613098c4274d3bbb95c31aa2a52b04600555036a9d6a319a5fe
